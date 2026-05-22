@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>turtle_draw</name>
+  <version>0.0.1</version>
+  <description>Desenha o contorno de uma imagem usando turtlesim.</description>
+  <maintainer email="enzo.cerutti@sou.inteli.edu.br">Enzo Piol Cerutti</maintainer>
+  <license>MIT</license>
+
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>turtlesim</depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
