@@ -4,6 +4,12 @@ Este projeto foi desenvolvido para a atividade ponderada de visão computacional
 
 Eu escolhi deixar o fluxo fácil de entender, então primeiro preparo a imagem, depois extraio uma borda limpa e, por fim, mando a tartaruga seguir os pontos desse contorno.
 
+## Vídeo Explicativo
+
+Assista ao vídeo para uma explicação sobre o funcionamento do Turtle Draw.
+
+> **Vídeo:** [Clique aqui para assistir](https://youtu.be/PoGTclYupqQ)
+
 ## Como eu desenvolvi
 
 Comecei explorando a imagem no notebook `tratamento_imagem_cachorro.ipynb`. Nele eu fui testando as etapas de tratamento e mostrando o motivo de cada decisão, como, tons de cinza, recorte, redução de tamanho, suavização, normalização e visualização de bordas.
